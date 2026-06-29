@@ -1,0 +1,6 @@
+{
+  "name": "COCO",
+  "description": "Sleek and easy booking app for COCO luxury car detailing, featuring appointments calendar, automated text reminders, and quick contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
